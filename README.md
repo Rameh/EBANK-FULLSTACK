@@ -1,5 +1,5 @@
 # EBANK-FULLSTACK
-Application de gestion de compte bancaires avec Spring Boot et Angular
+Application Spring Boot and Angular
 ---------------------------------------------------------------------------
 Java, Java EE, Spring Boot
 Angular, TypeScript
